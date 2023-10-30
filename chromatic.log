@@ -1,0 +1,3 @@
+✖ Invalid package.json
+Found invalid package.json at /Users/akiratanimoto/dev/storybook-tutorial/package.json
+Make sure this is a valid Node.js package file, is readable, and contains a "scripts" block.
